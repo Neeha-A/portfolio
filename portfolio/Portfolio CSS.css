@@ -1,0 +1,237 @@
+.homebutton {
+    
+    width: 852px;
+    height: 80px;
+}
+
+nav {
+    display: flex;
+    gap: 40px;
+    justify-content: flex-end;
+  }
+
+  .navItem {
+    display: block;
+    background: #95B9C5;
+    padding: 10px 25px;
+    color: #000;
+    text-decoration: none;
+    border-radius: 30px;
+    font-family: League Spartan; 
+    font-size: 20px;
+    border: 5px solid #000;
+    box-shadow: 6px 6px 0px 2px #000000;
+    transition: box-shadow ease-in-out 0.2s;
+  }
+  
+  .navItem:hover {
+    box-shadow: 10px 10px 0px 2px #000000;
+  }
+  
+  .navItem:focus, .navItem:active {
+    box-shadow: 2px 2px 0px 2px #000000;
+  }
+  
+  .navItemAbout {
+    background: #9EDC30;
+  }
+  
+  .navItemWork {
+    background: #FFB12F;
+  }
+  
+  .navItemContact {
+    background: #DC304F;
+  }
+
+img {
+    display: inline-block;
+    position: relative;
+    justify-content: flex-end;
+    align-items: center;
+    border-radius: 50%;
+  }
+
+.title {
+    display: inline-block;
+    position: relative;
+    top: 34px;
+    left: 27px;
+    color: #000;
+    font-family: Hepta Slab;
+    font-size: 110px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.title2 {
+    display: inline-block;
+    position: relative;
+    top: -138px;
+    justify-content: left;
+    color: #000;
+font-family: League Spartan;
+font-size: 80px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+.bio {
+    display: inline-block;
+    position: relative;
+    justify-content: left;
+    color: #000;
+font-family: Hepta Slab;
+font-size: 22px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+width: 840px;
+}
+
+.daydreaming{
+    display: inline-block;
+    position: relative;
+    top: -223px;
+    justify-content: left;
+    color: #000;
+font-family: League Spartan;
+font-size: 65px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+.gaming{
+    display: inline-block;
+    position: relative;
+    top: -104px;
+    justify-content: left;
+    color: #000;
+font-family: League Spartan;
+font-size: 65px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+.story{
+    display: inline-block;
+    position: relative;
+    top: 15px;
+    justify-content: left;
+    color: #000;
+font-family: League Spartan;
+font-size: 65px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+
+}
+
+.square {
+    display: inline-block;
+    position: relative;
+    top: -18px;
+    justify-content: center;
+    width: 1450px;
+    height: 118px;
+    background-color: #000;
+}
+
+.square-purple {
+    display: inline-block;
+    position: relative;
+    top: -117px;
+    justify-content: center;
+    width: 1509px;
+    height: 1800px;
+    background-color: #7365A2;
+}
+
+.title3 {
+    display: inline-block;
+    position: relative;
+    top: -1914px;
+    left: 542px;
+    color: #000;
+font-family: League Spartan;
+font-size: 80px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+.top-layer-BHPS {
+    display: inline-block;
+    position: relative;
+    top: -2353px;
+    left: 144px;
+    width: 1125px;
+    height: 418px; 
+    background: #888C03; 
+    border-radius: 40px; 
+    border: 5px black solid;
+}
+
+.bottom-layer-BHPS {
+    display: inline-block;
+    position: relative;
+    top: -1878px;
+    left: 182px;
+    width: 1125px;
+    height: 418px;
+    background: black; 
+    border-radius: 40px; 
+    border: 5px black solid;
+}
+
+.top-layer-move {
+    display: inline-block;
+    position: relative;
+    top: -2655px;
+    left: 143px;
+    width: 1125px;
+    height: 418px; 
+    background: #5E4420; 
+    border-radius: 40px; 
+    border: 5px black solid;
+}
+
+.bottom-layer-move {
+    display: inline-block;
+    position: relative;
+    top: -2189px;
+    left: 180px;
+    width: 1125px;
+    height: 418px;
+    background: black; 
+    border-radius: 40px; 
+    border: 5px black solid;
+}
+
+.top-layer-travel {
+    display: inline-block;
+    position: relative;
+    top: -2966px;
+    left: 143px;
+    width: 1125px;
+    height: 418px; 
+    background: #E9172B; 
+    border-radius: 40px; 
+    border: 5px black solid;
+}
+
+.bottom-layer-travel {
+    display: inline-block;
+    position: relative;
+    top: -2491px;
+    left: 180px;
+    width: 1125px;
+    height: 418px;
+    background: black; 
+    border-radius: 40px; 
+    border: 5px black solid;
+}
